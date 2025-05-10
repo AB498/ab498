@@ -131,11 +131,3 @@
     <img src="https://img.shields.io/badge/Check out Something Cool-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="HTML Resume Editor" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontAlignY=50&fontSize=50&fontColor=FFFFFF&text=The End" alt="Footer" width="100%" />
-</div>
