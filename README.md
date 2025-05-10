@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Congrat!+You've+Made+it.;Hold+on+a+sec...;It's+not+what+you+think+it+is.;You're+about+to+read+into+an+extended+discerning+monologue.;Proceed+at+your+own+descretion;So,+are+you+up+for+it?;Here+it+goes...;Imagine+you're+all+alone;Floating+through+endless+void,+you+looking+out+the+window;As+it+all+comes+back+to+you...;On+a+timeless+night,+you're+taking+one+last+look+at+it;Before+everything+you+know+in+existence+is+met+with+its+peak;Only+to+come+creashing+back+down;Having+to+live+in+a+time+where+nothing+makes+sense+anymore;And+all+while+reality+seemed+merely+an+illusion...;Beneath+the+surface+lied+a+lattice+of+connections+awaiting+discovery;Meanings+that+build+up+on+foundations+of+the+fallen;Cause+even+the+greatest+of+achievements+one+day+are+forgotten;But+the+marks+left+behind+are+etched+in+the+fabric+of+reality;And+universe+was+speaking+through+silence;Cities+once+teeming+with+life+now+stand+empty;Monuments+to+hubris+crumble+in+toxic+rain;Stars+fade+in+silence+as+we+chase+fleeting+dreams;What+we+perceive+is+but+a+shadow+of+truth;Time+eroding+all+things,+even+our+memories;The+machines+created+outlived+their+creators;Those+who+understand+the+patterns+can+reshape+reality;But+in+the+end,+entropy+claims+us+all...;The+last+light+flickers+in+a+world+of+darkness;Time+asks+you+to+search+for+answers;What+you+decide+today+will+shape+future+for+generations;One+mistake+and+the+world+we+know+will+break+out+of+its+loop;Never+to+return+to+its+earlier+state;Eyes+were+on+us+all+the+time;Sacrifice+was+made;Bar+was+lowered;Take+it+or+leave+it;Are+you+ready+to+face+the+climax?;To+see+what+lies+above+and+beyond?;Time+will+only+wait+as+far;Now+is+your+turn;What+will+your+answer+be?;If+its+yes...;Then...;&font=Fira%20Code&center=true&width=850&height=50&color=f75c7e&vCenter=true&size=20&pause=1000">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <div align="center">
@@ -54,6 +54,14 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AB498&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Congrat!+You've+Made+it.;Hold+on+a+sec...;It's+not+what+you+think+it+is.;You're+about+to+read+into+an+extended+discerning+monologue.;Proceed+at+your+own+descretion;So,+are+you+up+for+it?;Here+it+goes...;Imagine+you're+all+alone;Floating+through+endless+void,+you+looking+out+the+window;As+it+all+comes+back+to+you...;On+a+timeless+night,+you're+taking+one+last+look+at+it;Before+everything+you+know+in+existence+is+met+with+its+peak;Only+to+come+creashing+back+down;Having+to+live+in+a+time+where+nothing+makes+sense+anymore;And+all+while+reality+seemed+merely+an+illusion...;Beneath+the+surface+lied+a+lattice+of+connections+awaiting+discovery;Meanings+that+build+up+on+foundations+of+the+fallen;Cause+even+the+greatest+of+achievements+one+day+are+forgotten;But+the+marks+left+behind+are+etched+in+the+fabric+of+reality;And+universe+was+speaking+through+silence;Cities+once+teeming+with+life+now+stand+empty;Monuments+to+hubris+crumble+in+toxic+rain;Stars+fade+in+silence+as+we+chase+fleeting+dreams;What+we+perceive+is+but+a+shadow+of+truth;Time+eroding+all+things,+even+our+memories;The+machines+created+outlived+their+creators;Those+who+understand+the+patterns+can+reshape+reality;But+in+the+end,+entropy+claims+us+all...;The+last+light+flickers+in+a+world+of+darkness;Time+asks+you+to+search+for+answers;What+you+decide+today+will+shape+future+for+generations;One+mistake+and+the+world+we+know+will+break+out+of+its+loop;Never+to+return+to+its+earlier+state;Eyes+were+on+us+all+the+time;Sacrifice+was+made;Bar+was+lowered;Take+it+or+leave+it;Are+you+ready+to+face+the+climax?;To+see+what+lies+above+and+beyond?;Time+will+only+wait+as+far;Now+is+your+turn;What+will+your+answer+be?;If+its+yes...;Then...;&font=Fira%20Code&center=true&width=850&height=50&color=f75c7e&vCenter=true&size=20&pause=1000">
 </div>
 
 <div align="center">
