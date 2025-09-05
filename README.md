@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AB498&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=&descAlignY=55&descAlign=62" alt="Header" width="100%" />
 </div>
 
@@ -9,6 +9,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AB498&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -62,11 +63,7 @@
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AB498&label=Profile%20Views&color=0e75b6&style=for-the-badge&color=60D9FA" alt="Profile Views" />
-</div>
+</div> 
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -84,4 +81,10 @@
   <a href="https://github.com/AB498">
     <img src="https://img.shields.io/badge/-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="HTML Resume Editor" />
   </a>
+</div>
+
+ -->
+ 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AB498&label=Profile%20Views&color=0e75b6&style=for-the-badge&color=60D9FA" alt="Profile Views" />
 </div>
