@@ -84,7 +84,14 @@
 </div>
 
  -->
- 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AB498&label=&color=0e75b6&style=for-the-badge&color=60D9FA" alt="" />
+
+<div align="center" style="text-align:center;font-family: monospace; display: flex; align-items: center; justify-content: center; width: 100%; gap: 10px">
+    <a href="https://github.com/AB498"><img
+            src="https://komarev.com/ghpvc/?username=AB498&label=-&style=for-the-badge&color=CC0000" /></a>
+<!--     <a href="https://discord.gg/ZeeqSBpjU2"><img
+            src="https://img.shields.io/discord/1095854826786668545?style=for-the-badge&color=0000CC" alt="Discord"></a>
+    <a href="https://img.shields.io/badge/License-MIT-yellow.svg"><img
+            src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&color=00CC00" alt="License: MIT"></a>
+    <a href="https://pypi.org/project/computer-control-mcp"><img
+            src="https://img.shields.io/pypi/v/computer-control-mcp?style=for-the-badge" alt="PyPi"></a> -->
 </div>
