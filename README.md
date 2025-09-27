@@ -86,8 +86,8 @@
  -->
 
 <div align="center" style="text-align:center;font-family: monospace; display: flex; align-items: center; justify-content: center; width: 100%; gap: 10px">
-    <a href="https://nextjs-boilerplate-ashy-nine-64.vercel.app/demo1"><img
-        src="https://komarev.com/ghpvc/?username=AB498&label=DEMO&style=for-the-badge&color=CC0000" /></a>
+    <a href="https://nextjs-boilerplate-ashy-nine-64.vercel.app/"><img
+        src="https://komarev.com/ghpvc/?username=AB498&label=-&style=for-the-badge&color=CC0000" /></a>
 <!--     <a href="https://discord.gg/ZeeqSBpjU2"><img
             src="https://img.shields.io/discord/1095854826786668545?style=for-the-badge&color=0000CC" alt="Discord"></a>
     <a href="https://img.shields.io/badge/License-MIT-yellow.svg"><img
